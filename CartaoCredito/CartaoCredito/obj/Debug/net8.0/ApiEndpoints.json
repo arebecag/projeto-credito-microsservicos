@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CartaoCredito.Controllers.CartaoController",
+    "Method": "CriarCartao",
+    "RelativePath": "api/Cartao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CartaoCredito.Models.CartaoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

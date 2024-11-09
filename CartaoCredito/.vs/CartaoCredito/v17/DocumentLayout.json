@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\consumers\\propostaaprovadaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\consumers\\propostaaprovadaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\models\\propostaaprovadaevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\models\\propostaaprovadaevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\consumers\\clientecadastradoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\consumers\\clientecadastradoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\controllers\\cartaocreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\controllers\\cartaocreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\services\\icartaocreditoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\services\\icartaocreditoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\services\\cartaocreditoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\services\\cartaocreditoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\models\\clientecadastradoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\models\\clientecadastradoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\models\\cartaodecredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\models\\cartaodecredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\models\\cartaorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\models\\cartaorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\models\\cartaocreditoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\models\\cartaocreditoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|c:\\users\\rhaya\\source\\repos\\cartaocredito\\cartaocredito\\messaging\\rabbitmqmessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A821AFC0-69E7-40C7-955D-BF2C1FFBCA3D}|CartaoCredito\\CartaoCredito.csproj|solutionrelative:cartaocredito\\messaging\\rabbitmqmessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICartaoCreditoService.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Services\\ICartaoCreditoService.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Services\\ICartaoCreditoService.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Services\\ICartaoCreditoService.cs",
+              "RelativeToolTip": "CartaoCredito\\Services\\ICartaoCreditoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:45:16.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Program.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Program.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Program.cs",
+              "RelativeToolTip": "CartaoCredito\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:22:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartaoCreditoController.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Controllers\\CartaoCreditoController.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Controllers\\CartaoCreditoController.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Controllers\\CartaoCreditoController.cs",
+              "RelativeToolTip": "CartaoCredito\\Controllers\\CartaoCreditoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:25:59.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteCadastradoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Consumers\\ClienteCadastradoConsumer.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Consumers\\ClienteCadastradoConsumer.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Consumers\\ClienteCadastradoConsumer.cs",
+              "RelativeToolTip": "CartaoCredito\\Consumers\\ClienteCadastradoConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:20:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropostaAprovadaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Consumers\\PropostaAprovadaConsumer.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Consumers\\PropostaAprovadaConsumer.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Consumers\\PropostaAprovadaConsumer.cs",
+              "RelativeToolTip": "CartaoCredito\\Consumers\\PropostaAprovadaConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:00:07.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropostaAprovadaEvent.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\PropostaAprovadaEvent.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Models\\PropostaAprovadaEvent.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\PropostaAprovadaEvent.cs",
+              "RelativeToolTip": "CartaoCredito\\Models\\PropostaAprovadaEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:00:33.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartaoCreditoService.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Services\\CartaoCreditoService.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Services\\CartaoCreditoService.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Services\\CartaoCreditoService.cs",
+              "RelativeToolTip": "CartaoCredito\\Services\\CartaoCreditoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:44:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteCadastradoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\ClienteCadastradoEvent.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Models\\ClienteCadastradoEvent.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\ClienteCadastradoEvent.cs",
+              "RelativeToolTip": "CartaoCredito\\Models\\ClienteCadastradoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:12:15.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartaoDeCredito.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\CartaoDeCredito.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Models\\CartaoDeCredito.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\CartaoDeCredito.cs",
+              "RelativeToolTip": "CartaoCredito\\Models\\CartaoDeCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:43:28.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartaoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\CartaoRequest.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Models\\CartaoRequest.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\CartaoRequest.cs",
+              "RelativeToolTip": "CartaoCredito\\Models\\CartaoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:46:45.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartaoCreditoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\CartaoCreditoEvent.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Models\\CartaoCreditoEvent.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Models\\CartaoCreditoEvent.cs",
+              "RelativeToolTip": "CartaoCredito\\Models\\CartaoCreditoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:45:44.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RabbitMQMessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Messaging\\RabbitMQMessageBus.cs",
+              "RelativeDocumentMoniker": "CartaoCredito\\Messaging\\RabbitMQMessageBus.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\CartaoCredito\\CartaoCredito\\Messaging\\RabbitMQMessageBus.cs",
+              "RelativeToolTip": "CartaoCredito\\Messaging\\RabbitMQMessageBus.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:44:56.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\controllers\\propostacreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\controllers\\propostacreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\consumers\\clientecadastradoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\consumers\\clientecadastradoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\models\\propostarejeitadaevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\models\\propostarejeitadaevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\models\\propostacreditorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\models\\propostacreditorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\models\\propostacreditoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\models\\propostacreditoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\models\\propostaaprovadaevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\models\\propostaaprovadaevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\models\\clientecadastradoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\models\\clientecadastradoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\messaging\\rabbitmqmessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\messaging\\rabbitmqmessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|c:\\users\\rhaya\\source\\repos\\propostacredito\\propostacredito\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D5938C-2597-481D-8B71-3087F4DAD984}|PropostaCredito\\PropostaCredito.csproj|solutionrelative:propostacredito\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropostaCreditoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\PropostaCreditoRequest.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Models\\PropostaCreditoRequest.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\PropostaCreditoRequest.cs",
+              "RelativeToolTip": "PropostaCredito\\Models\\PropostaCreditoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:32:54.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropostaRejeitadaEvent.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\PropostaRejeitadaEvent.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Models\\PropostaRejeitadaEvent.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\PropostaRejeitadaEvent.cs",
+              "RelativeToolTip": "PropostaCredito\\Models\\PropostaRejeitadaEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:54:51.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Program.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Program.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Program.cs",
+              "RelativeToolTip": "PropostaCredito\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:59:17.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteCadastradoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Consumers\\ClienteCadastradoConsumer.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Consumers\\ClienteCadastradoConsumer.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Consumers\\ClienteCadastradoConsumer.cs",
+              "RelativeToolTip": "PropostaCredito\\Consumers\\ClienteCadastradoConsumer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:58:13.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropostaCreditoController.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Controllers\\PropostaCreditoController.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Controllers\\PropostaCreditoController.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Controllers\\PropostaCreditoController.cs",
+              "RelativeToolTip": "PropostaCredito\\Controllers\\PropostaCreditoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:31:02.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropostaCreditoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\PropostaCreditoEvent.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Models\\PropostaCreditoEvent.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\PropostaCreditoEvent.cs",
+              "RelativeToolTip": "PropostaCredito\\Models\\PropostaCreditoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:33:31.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropostaAprovadaEvent.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\PropostaAprovadaEvent.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Models\\PropostaAprovadaEvent.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\PropostaAprovadaEvent.cs",
+              "RelativeToolTip": "PropostaCredito\\Models\\PropostaAprovadaEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:54:25.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteCadastradoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\ClienteCadastradoEvent.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Models\\ClienteCadastradoEvent.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Models\\ClienteCadastradoEvent.cs",
+              "RelativeToolTip": "PropostaCredito\\Models\\ClienteCadastradoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:34:43.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMQMessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Messaging\\RabbitMQMessageBus.cs",
+              "RelativeDocumentMoniker": "PropostaCredito\\Messaging\\RabbitMQMessageBus.cs",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\Messaging\\RabbitMQMessageBus.cs",
+              "RelativeToolTip": "PropostaCredito\\Messaging\\RabbitMQMessageBus.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:29:53.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PropostaCredito\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rhaya\\source\\repos\\PropostaCredito\\PropostaCredito\\appsettings.Development.json",
+              "RelativeToolTip": "PropostaCredito\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T13:05:23.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

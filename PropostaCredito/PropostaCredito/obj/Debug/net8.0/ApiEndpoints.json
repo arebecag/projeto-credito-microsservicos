@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PropostaCredito.Controllers.PropostaCreditoController",
+    "Method": "AnalisarProposta",
+    "RelativePath": "api/PropostaCredito/analise",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PropostaCredito.Models.PropostaCreditoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
